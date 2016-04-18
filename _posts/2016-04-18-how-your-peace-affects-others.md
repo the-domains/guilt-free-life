@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Yesterday, my Internet went out. For a blogger that can be detrimental, especially if we forget how to actually write with a pencil on paper. I had been given homework after having an animal communicator visit this week to help diagnose my draft horse's behavioral problems and I was eager to write about it. The communicator is helping us learn to interact with our horses in a more natural manner; letting them be horses, for example, rather than high-stepping prisoners that should never misbehave."
-datePublished: '2016-04-18T03:36:57.579Z'
-dateModified: '2016-04-18T03:36:50.180Z'
+datePublished: '2016-04-18T03:46:28.316Z'
+dateModified: '2016-04-18T03:46:22.532Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-how-your-peace-affects-others.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-how-your-peace-affects-others.md
-published: true
 url: how-your-peace-affects-others/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a4e75e6-175f-4ee4-954f-e07c9276b77e.jpg)
+
 Yesterday, my Internet went out. For a blogger that can be detrimental, especially if we forget how to actually write with a pencil on paper. I had been given homework after having an animal communicator visit this week to help diagnose my draft horse's behavioral problems and I was eager to write about it. The communicator is helping us learn to interact with our horses in a more natural manner; letting them be horses, for example, rather than high-stepping prisoners that should never misbehave.
 
 I thought that he would have me perform certain exercises on the ground with my horse, but his assignment went in a completely different direction. My homework was to clear out my own fears.
